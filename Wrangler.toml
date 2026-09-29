@@ -5,4 +5,4 @@ compatibility_date = "2026-09-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "baddie-banni-db"
-database_id = "PASTE_YOUR_DATABASE_ID_HERE"
+database_id = "f6d02789-1ad8-48d1-b315-7942b96c4c7f"
