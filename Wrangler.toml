@@ -1,0 +1,8 @@
+name = "baddie-banni"
+main = "worker.js"
+compatibility_date = "2026-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "baddie-banni-db"
+database_id = "PASTE_YOUR_DATABASE_ID_HERE"
